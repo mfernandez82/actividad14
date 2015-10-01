@@ -12,6 +12,11 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        // agregando variables de prueba para git
+        var nombre : String
+        nombre = "Miguel Fenandez"
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
