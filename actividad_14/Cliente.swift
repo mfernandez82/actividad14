@@ -6,4 +6,17 @@
 //  Copyright (c) 2015 Miguel Fernandez. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+class Cliente {
+    var nombre: String
+    var direccion : String
+    var fono: Int
+    
+    init(nombre: String)
+    {
+        self.nombre = nombre
+    }
+    
+    
+}
