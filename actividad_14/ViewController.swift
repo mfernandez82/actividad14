@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         println(nombre)
         
         
-        // version 1,0
+        // version 1,1
         
         
         
