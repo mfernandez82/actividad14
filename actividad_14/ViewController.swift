@@ -17,6 +17,9 @@ class ViewController: UIViewController {
         var nombre : String
         nombre = "Miguel Fenandez"
         
+        println(nombre)
+        
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
