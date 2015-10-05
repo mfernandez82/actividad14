@@ -14,6 +14,7 @@
 		60E0B6B71BBD833000988471 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 60E0B6B51BBD833000988471 /* LaunchScreen.xib */; };
 		60E0B6C31BBD833000988471 /* actividad_14Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E0B6C21BBD833000988471 /* actividad_14Tests.swift */; };
 		60E0B6CD1BBD876700988471 /* Cliente.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E0B6CC1BBD876700988471 /* Cliente.swift */; };
+		60F4A2E11BC21ED800133706 /* ArchivoPrueba.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60F4A2E01BC21ED800133706 /* ArchivoPrueba.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		60E0B6C11BBD833000988471 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		60E0B6C21BBD833000988471 /* actividad_14Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = actividad_14Tests.swift; sourceTree = "<group>"; };
 		60E0B6CC1BBD876700988471 /* Cliente.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cliente.swift; sourceTree = "<group>"; };
+		60F4A2E01BC21ED800133706 /* ArchivoPrueba.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArchivoPrueba.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		60E0B69E1BBD833000988471 = {
 			isa = PBXGroup;
 			children = (
+				60F4A2E01BC21ED800133706 /* ArchivoPrueba.swift */,
 				60E0B6A91BBD833000988471 /* actividad_14 */,
 				60E0B6BF1BBD833000988471 /* actividad_14Tests */,
 				60E0B6A81BBD833000988471 /* Products */,
@@ -216,6 +219,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				60E0B6AF1BBD833000988471 /* ViewController.swift in Sources */,
+				60F4A2E11BC21ED800133706 /* ArchivoPrueba.swift in Sources */,
 				60E0B6AD1BBD833000988471 /* AppDelegate.swift in Sources */,
 				60E0B6CD1BBD876700988471 /* Cliente.swift in Sources */,
 			);
@@ -413,6 +417,7 @@
 				60E0B6C81BBD833000988471 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		60E0B6C91BBD833000988471 /* Build configuration list for PBXNativeTarget "actividad_14Tests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +426,7 @@
 				60E0B6CB1BBD833000988471 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
