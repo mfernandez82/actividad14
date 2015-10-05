@@ -19,6 +19,10 @@ class ViewController: UIViewController {
         
         println(nombre)
         
+        nombre = "jose gonzalez"
+        
+        println(nombre)
+        
         
         // Do any additional setup after loading the view, typically from a nib.
     }

@@ -9,7 +9,7 @@
 import UIKit
 
 class Cliente {
-    var nombre: String
+    var nombre: String?
     var direccion : String
     var fono: Int
     
