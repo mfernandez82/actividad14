@@ -24,7 +24,8 @@ class ViewController: UIViewController {
         println(nombre)
         
         
-        // version 0,1
+        // version 1,0
+        
         
         
         // Do any additional setup after loading the view, typically from a nib.
